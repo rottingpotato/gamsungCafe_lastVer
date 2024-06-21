@@ -2113,7 +2113,7 @@ function pt_game1_showResults(){
   // 3. 다음 stage로
   if (next_condition){
     next_condition = false;
-    game_stage_controller++; // became 6/8/10
+    game_stage_controller++; 
     start_time = millis(); // 시작시간 초기화
     clickedIndex = [];
   }
@@ -4214,14 +4214,12 @@ function game1_trial1(answer_key){
       c_t1_success = false;
       Timer4.reset(); // 타이머 리셋
     }    
-    
   }
-
 
   // 3. 다음 stage로
   if (next_condition){
     next_condition = false;
-    game_stage_controller++; // became 4
+    game_stage_controller++; 
     start_time = millis(); // 시작시간 초기화
     smile_count = 7;
     show_step = 0; // show_step 초기화
@@ -4334,7 +4332,7 @@ function game1_trial2(answer_key){
   }
 
   // 2. 게임 작동
-  if (!next_condition && trial_start && elapsed_time > 1800) {
+  if (!next_condition && trial_start && elapsed_time > 3000) {
     // 커서
     image(cursor_mo, mouseX, mouseY, cursor_mo_X, cursor_mo_Y);
     
@@ -4396,7 +4394,7 @@ function game1_trial2(answer_key){
   // 3. 다음 stage로
   if (next_condition){
     next_condition = false;
-    game_stage_controller++; // became 6
+    game_stage_controller++; 
     start_time = millis(); // 시작시간 초기화
     smile_count = 7;
     show_step = 0; // show_step 초기화
@@ -4522,7 +4520,7 @@ function game1_trial3(answer_key){
   }
 
   // 2. 게임 작동
-  if (!next_condition && trial_start && elapsed_time > 1800) {
+  if (!next_condition && trial_start && elapsed_time > 3000) {
     // 커서
     image(cursor_mo, mouseX, mouseY, cursor_mo_X, cursor_mo_Y);
     
@@ -4580,7 +4578,7 @@ function game1_trial3(answer_key){
   // 3. 다음 stage로
   if (next_condition){
     next_condition = false;
-    game_stage_controller++; // became 8
+    game_stage_controller = 59; 
     start_time = millis(); // 시작시간 초기화
     smile_count = 7;
     show_step = 0; // show_step 초기화
