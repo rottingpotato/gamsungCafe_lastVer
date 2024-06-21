@@ -6,7 +6,6 @@
 이승훈 _ 개발&nbsp;&nbsp;&nbsp;&nbsp;  
 전다은 _ 개발&nbsp;&nbsp;&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;   
-&nbsp;&nbsp;&nbsp;&nbsp;   
 **게임실행 유의사항 및 링크**&nbsp;&nbsp;&nbsp;&nbsp;  
 ・ 화면 클릭시 실행&nbsp;&nbsp;&nbsp;&nbsp;  
 ・ Chrome에 최적화되어 있음&nbsp;&nbsp;&nbsp;&nbsp;  
