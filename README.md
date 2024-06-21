@@ -7,6 +7,9 @@
 이승훈 _ 개발&nbsp;&nbsp;&nbsp;&nbsp;  
 전다은 _ 개발&nbsp;&nbsp;&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+- 화면 클릭시 실행
+- Chrome에 최적화되어 있음
 https://rottingpotato.github.io/gamsungCafe_lastVer/
 
 ![Alt text](/(assets)common_bg_items/opening_title.png)
