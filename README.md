@@ -6,7 +6,7 @@
 김경민 _ 연출&개발보조&nbsp;&nbsp;&nbsp;&nbsp;  
 이승훈 _ 개발&nbsp;&nbsp;&nbsp;&nbsp;  
 전다은 _ 개발&nbsp;&nbsp;&nbsp;&nbsp;  
-
-[http](https://github.com/rottingpotato/gamsungCafe_lastVer/)
+&nbsp;&nbsp;&nbsp;&nbsp;  
+https://github.com/rottingpotato/gamsungCafe_lastVer/
 
 ![Alt text](/(assets)common_bg_items/opening_title.png)
