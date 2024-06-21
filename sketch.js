@@ -3681,7 +3681,7 @@ function pt_restart(){
     fill(255); // 하얀 글씨
     textSize(70); 
     textAlign(CENTER, CENTER);
-    text("다시 시작하려면 command + R키를 누르세요", width/2, height/2);
+    text("다시 시작하려면 새로고침 키를 누르세요", width/2, height/2);
     settingInitialize();
   }
 }
@@ -7495,7 +7495,7 @@ function game3_showResults(){
     fill(255); // 하얀 글씨
     textSize(70); 
     textAlign(CENTER, CENTER);
-    text("다시 시작하려면 command + R키를 누르세요", width/2, height/2);
+    text("다시 시작하려면 새로고침 키를 누르세요", width/2, height/2);
     settingInitialize();
   }
 
