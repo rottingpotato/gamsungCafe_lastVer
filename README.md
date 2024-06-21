@@ -7,6 +7,6 @@
 이승훈 _ 개발&nbsp;&nbsp;&nbsp;&nbsp;  
 전다은 _ 개발&nbsp;&nbsp;&nbsp;&nbsp;  
 &nbsp;&nbsp;&nbsp;&nbsp;  
-https://github.com/rottingpotato/gamsungCafe_lastVer/
+https://rottingpotato.github.io/gamsungCafe_lastVer/
 
 ![Alt text](/(assets)common_bg_items/opening_title.png)
