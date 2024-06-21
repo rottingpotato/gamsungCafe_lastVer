@@ -6,4 +6,4 @@
 
 [http](https://github.com/rottingpotato/gamsungCafe_lastVer/)
 
-![Alt text](https://github.com/rottingpotato/gamsungCafe_lastVer/(assets)common_bg_items/opening_title.png)
+![Alt text](/(assets)common_bg_items/opening_title.png)
